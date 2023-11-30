@@ -1,5 +1,4 @@
 setuptools==57.5.0
-anyjson==0.3.3
 asgiref==3.6.0
 async-timeout==4.0.3
 beautifulsoup4==4.11.2
